@@ -16,7 +16,7 @@ body {
 }
 
 .backgroundContainer {
-  background-image: url("./bannerImage.jpg");
+  background-image: url("bannerimage.jpg");
   filter: blur(16px);
   height: 100vh;
   position: relative;
